@@ -1,0 +1,10 @@
+target/
+*.iml
+.idea/
+npm-debug.log
+.history
+vpn/**
+!vpn/.gitkeep
+?/
+src/.DS_Store
+gradle/
